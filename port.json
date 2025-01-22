@@ -1,0 +1,34 @@
+{
+  "version": 3,
+  "name": "pizzatower.zip",
+  "items": [
+    "Pizza Tower.sh",
+    "pizzatower"
+  ],
+  "items_opt": [],
+  "attr": {
+    "title": "Pizza Tower",
+    "porter": [
+      "Regular Character",
+	  "kotzebuedog",
+	  "JohnnyOnFlame",
+	  "Jeod"
+    ],
+    "desc": "Pizza Tower is a fast paced 2D platformer, with an emphasis on movement, exploration and score attack. Featuring highly stylized pixel art inspired by the cartoons from the '90s, and a highly energetic soundtrack.",
+    "desc_md": null,
+    "inst": "Purchase the game on Steam and copy all game data to `pizzatower/assets`.",
+    "inst_md": null,
+    "genres": [
+      "action"
+    ],
+    "image": null,
+    "rtr": true,
+    "exp": false,
+    "runtime": null,
+    "reqs": [
+	],
+    "arch": [
+      "aarch64"
+    ]
+  }
+}

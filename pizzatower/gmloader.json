@@ -5,5 +5,5 @@
     "disable_controller" : false,
     "disable_depth" : false,
     "force_platform" : "os_windows",
-    "fmod_bank_path" : "bank/sound/Desktop"
+    "fmod_bank_path" : "banks"
 }
