@@ -1,9 +1,9 @@
 {
-    "save_dir" : "assets",
+    "save_dir" : "saves",
     "apk_path" : "pizzatower.port",
     "show_cursor" : false,
     "disable_controller" : false,
     "disable_depth" : false,
-    "force_platform" : "os_linux",
-    "fmod_bank_path" : "sound/Desktop/"
+    "force_platform" : "os_windows",
+    "fmod_bank_path" : "bank/sound/Desktop"
 }
